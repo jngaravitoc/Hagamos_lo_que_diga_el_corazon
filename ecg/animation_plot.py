@@ -28,7 +28,7 @@ data_gen.t = 0
 
 fig, ax = plt.subplots()
 line, = ax.plot([], [], lw=2)
-ax.set_ylim(10, 40)
+ax.set_ylim(10, 30)
 ax.set_xlim(0, Lview)
 ax.grid()
 xdata, ydata = [], []
