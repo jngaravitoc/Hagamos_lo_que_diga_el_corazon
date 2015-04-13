@@ -2,7 +2,7 @@
 Sciense hack day project for a low cost ECG using Arduino and python for real time heart beat visualization.
 The matirial needed for this, is: An Arduino, some leds, 1k resitences and a computer with Unix. This project can be brokedown in two stages: First become your computer an ossiloscope, Second amplifie and clean the heart beat signal.  
 
-# Convert your computer an ossiloscope
+# Convert your computer into an ossiloscope
 
 
 
